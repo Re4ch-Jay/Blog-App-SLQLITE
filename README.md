@@ -1,16 +1,41 @@
-# blog_app
+# Shop App
 
-A new Flutter project.
+Shopping at home is better!
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+### Screens
 
-A few resources to get you started if this is your first Flutter project:
+<img src="images/Banner.png" />
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Features
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Post blog
+- update blog
+- delete blog
+- view blog
+- List view builder
+- validation form
+
+### Pakages
+
+- cupertino_icons: ^1.0.2
+- sqflite: ^2.2.8+4
+
+
+### Author
+
+[Phat Panhareach](https://github.com/Re4ch-Jay/)
+
+
+### Usage
+
+```bash
+# Clone this repository
+$ git clone https://github.com/Re4ch-Jay/Blog-App-SLQLITE
+
+# Install dependencies
+$ flutter packages get
+
+# Run the app
+$ flutter run
+```
