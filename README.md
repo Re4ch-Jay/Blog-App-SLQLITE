@@ -6,6 +6,7 @@ Shopping at home is better!
 ### Screens
 
 <img src="images/Banner.png" />
+<img src="images/validation.png" />
 
 ### Features
 
